@@ -20,6 +20,11 @@ Users can submit a **rating (score)** and a **comment** associated with a specif
 - RESTful API architecture
 - Lightweight microservice design
 
+
+## SWAGGER
+-  http://IP:PORTA/swagger-ui/index.htm
+
+
 ## 📂 Project Structure
 
 ```text
