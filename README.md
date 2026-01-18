@@ -9,7 +9,7 @@ Users can submit a **rating (score)** and a **comment** associated with a specif
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- SQLite
+- SQLite3
 - Maven
 
 ## 📌 Features
@@ -33,7 +33,8 @@ Users can submit a **rating (score)** and a **comment** associated with a specif
  ┃ ┃ ┃   ┣ 📁 repository
  ┃ ┃ ┃   ┗ 📁 model
  ┃ ┃ ┗ 📁 resources
- ┃ ┃   ┗ 📄 application.yml
+ ┃ ┃   ┗ 📁 db
+ ┃ ┃      ┗ 📁 migration
+ ┃ ┃   ┗ 📄 application.properties
  ┣ 📄 pom.xml
  ┣ 📄 README.md
- ┗ 📄 feedback.db
